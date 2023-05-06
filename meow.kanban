@@ -1,0 +1,278 @@
+{
+  "lists": [
+    {
+      "id": "7a558f5a-e574-4fd9-bdfd-5a93635fe011",
+      "title": "ToDo",
+      "cards": [
+        {
+          "id": "59a9bfe4-3073-4fad-b8b5-3ac2c4ec8a61",
+          "listId": "7a558f5a-e574-4fd9-bdfd-5a93635fe011",
+          "title": "add drop shadow to cat anims",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "aeae4e7b-165e-47d9-8643-3a21486bdb64",
+          "listId": "7a558f5a-e574-4fd9-bdfd-5a93635fe011",
+          "title": "refactor the code and eliminate unnecessary garbage",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "8a0d034e-b530-4f52-8b48-e8e61d29b698",
+          "listId": "7a558f5a-e574-4fd9-bdfd-5a93635fe011",
+          "title": "test thoroughly, turn of debugging everywhere and set parameters to their prod counterparts",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": "5de10154-9212-4019-858e-0d0404482e06",
+      "title": "Doing",
+      "cards": [
+        {
+          "id": "c4f3110f-48a0-407e-b076-42682cc22cfe",
+          "listId": "5de10154-9212-4019-858e-0d0404482e06",
+          "title": "Complete the about page",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": "8f4c64be-4189-443b-825c-14be50e9352d",
+      "title": "Done",
+      "cards": [
+        {
+          "id": "ba1b33d2-533f-4fb9-862a-086f06801944",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Remove the settings from the menu and correct all the spacing and formatting everywhere",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "18887f19-c474-4a79-8852-16fadb77ff9e",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Add the remaining sound effects",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "fe9b0529-2bb7-4375-8cbf-e95a134f0e21",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Fix health going into negative if last fed was more than 10 days ago",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "089ffdfc-5039-495e-b309-8011ba3d1762",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "separate the header including the menu into a separate component",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "061f846c-fead-4450-b08e-aeb7712892b6",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Add timer persistence and detection of app in background",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "0d4c15b0-2587-43b9-9dc8-1fc6e8eaf5c5",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "implement health decreasing due to not feeding",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "4a77389c-4973-4840-acf5-28225d827ad9",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Build in age incrementing",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "f50242fc-09d1-47cd-b08a-eb3e498a3de4",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Deal with modals/popups/alerts when cancelling or doing undoable stuff",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "4c78a844-536b-4f0c-ac20-a1edf7439246",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Health being one less than it should be when fetching from Async Store",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "39c2e415-fad9-4e50-9281-6c65217a46b2",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Add randomized motivational messages",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "575ebb05-77ef-40b5-90ac-7a6afd1feefe",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Complete the onboarding flow",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "52a43679-8a5f-4b61-8c14-d60092c49f1e",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Prevent negative balance in the wallet",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "60affdcd-16b9-4aaf-9f98-209189141e5f",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "add sfx",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "d4eb061b-df52-4f81-af0b-5f6a9ecd2aba",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "separate the health bar and stats into separate components",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "6c14759c-c6f1-4de8-a6ee-d11bc720d21b",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Allow for purchasing and feeding actions",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "74ee8051-4d6e-49e5-b7da-f88f022b4a28",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "separate the cat animations into a separate modules",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "2adbf45e-2b43-4956-9d1d-85dfc08d9669",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Separate the animation into different, smaller animations",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "330e260b-2c5c-4463-9b94-d4c367c46d76",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Organize the assets into the correct directories",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "40b0348e-fb0d-40d7-a972-128c27a0c294",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "fix disagreement between amount expected to be earned and the amount added at the end",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "4dbfd868-1a74-48e9-8cbd-4d1b1e7930a5",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Build in timer cancellation",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "0b9e39bb-614b-48b7-8b16-0bd79e4fd60f",
+          "listId": "8f4c64be-4189-443b-825c-14be50e9352d",
+          "title": "Separate the screen groups into their respective flows",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        }
+      ]
+    },
+    {
+      "id": "1f3f5c44-961b-48be-afeb-330518a12e66",
+      "title": "Backlog/Bugs",
+      "cards": [
+        {
+          "id": "d14327ed-86ac-47b7-be5a-e3fcc6d4b417",
+          "listId": "1f3f5c44-961b-48be-afeb-330518a12e66",
+          "title": "Add background music to the app",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        },
+        {
+          "id": "3171f530-2acc-47fc-ade6-234437c3756a",
+          "listId": "1f3f5c44-961b-48be-afeb-330518a12e66",
+          "title": "Hook up account DB, authentication, and login",
+          "description": "",
+          "labels": [],
+          "checkboxes": [],
+          "comments": []
+        }
+      ]
+    }
+  ],
+  "archive": {
+    "lists": [],
+    "cards": []
+  },
+  "settings": {
+    "labels": []
+  }
+}
